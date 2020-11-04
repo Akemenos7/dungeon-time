@@ -1,5 +1,5 @@
 {
-    "name": "Beta 3",
+    "name": "Beta 4",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -16,7 +16,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.2.6",
+        "target": "1.2.9",
         "targetId": "arcade"
     },
     "supportedTargets": [
