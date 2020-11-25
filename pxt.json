@@ -1,5 +1,5 @@
 {
-    "name": "Beta 5(Creey background on lvl 3)",
+    "name": "Beta 6 (Boss In Progress)",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -16,7 +16,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.2.9",
+        "target": "1.2.10",
         "targetId": "arcade"
     },
     "supportedTargets": [
